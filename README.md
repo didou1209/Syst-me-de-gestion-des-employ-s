@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project Overview
 
 A Spring boot web application application that lets you add, delete, edit and update employees in different departments for enterprise needs and contact info.
@@ -59,3 +60,6 @@ A Java Web App with Vaadin follows the Maven's [standard directory layout struct
 
 ## Notes
 If you run application from a command line, remember to prepend a `mvn` to the command.
+=======
+# Syst-me-de-gestion-des-employ-s
+>>>>>>> 5e8970ec83b997ad82bae6e8354d02451d72bd86
