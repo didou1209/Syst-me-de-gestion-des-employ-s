@@ -27,7 +27,7 @@ public class MainLayout extends AppLayout {
 	
 	private void createHeader() {
 		
-		 H1 logo = new H1("Slick EMS");
+		 H1 logo = new H1("Futur Agency");
 		 logo.addClassName("logo");
 		 
 		 Anchor logout = new Anchor("logout", "Log out");

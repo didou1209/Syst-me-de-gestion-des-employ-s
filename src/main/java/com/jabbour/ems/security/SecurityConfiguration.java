@@ -19,7 +19,7 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
  * 
  * You can configure Spring Security to use an authentication provider
  * further reading: https://dzone.com/articles/spring-security-authentication
- * @author chris
+ * @author Iyed.G
  * 
  * */
 @EnableWebSecurity

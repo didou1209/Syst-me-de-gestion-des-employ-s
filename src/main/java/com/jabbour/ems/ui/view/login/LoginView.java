@@ -18,7 +18,7 @@ import com.vaadin.flow.theme.lumo.Lumo;
 
 @SuppressWarnings("serial")
 @Route("login")
-@PageTitle("Login | Slick EMS")
+@PageTitle("Login | Futur Agency")
 public class LoginView extends VerticalLayout implements BeforeEnterObserver {
 	
 	private LoginForm login = new LoginForm();
@@ -33,7 +33,7 @@ public class LoginView extends VerticalLayout implements BeforeEnterObserver {
 		button.addClassName("lumo-button");
 		button.getElement().setAttribute("aria-label", "Click me");
 	
-		Paragraph footer = new Paragraph("Created by Chris Jabbour🧿");
+		Paragraph footer = new Paragraph("Created by Iyed.G 🧿");
 		
 		Notification notification = new Notification(
         "username is user and password is password for the Demo showcase", 3000);
@@ -47,7 +47,7 @@ public class LoginView extends VerticalLayout implements BeforeEnterObserver {
 		
 		
 		login.setAction("login");
-		add(new H1("Slick EMS"), login, button);
+		add(new H1("Futur Agency"), login, button);
 		add(footer);
 	}
 	

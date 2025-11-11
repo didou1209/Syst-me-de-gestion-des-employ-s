@@ -22,7 +22,7 @@ import com.jabbour.ems.backend.repository.EmployeeRepository;
  *  It lets you do CRUD operations 
  *  on a database depending on which DB you choose to incorporate.
  *  
- * @author Chris
+ * @author IYED.G
  */
 
 @Service
@@ -103,7 +103,7 @@ public class EmployeeService {
 			List<Department> departments = departmentRepository.findAll();
 			employeeRepository.saveAll(
 					Stream.of("Rich Bowers", "Mark Rubio","Andrew Stich", "Andy Roo",
-							"Steven McDonald","Christopher Jabbour",
+							"Steven McDonald","Iyed Gue",
 							"Lucifer Morningstar",
 							"Daniel Birmingham", "Matthew Knudsvig", 
 							"Luke Bell", "Stephen Jabbour", "Victor Jabbour",

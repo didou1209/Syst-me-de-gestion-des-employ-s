@@ -12,7 +12,7 @@ import javax.persistence.MappedSuperclass;
  * 
  * it define how objects ids are generated 
  * and how object equality is determined.
- * @author chris jabbour
+ * @author iyed.G
  *
  *more on abstract classes
  *https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html

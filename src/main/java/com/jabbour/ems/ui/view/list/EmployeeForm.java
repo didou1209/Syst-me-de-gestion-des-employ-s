@@ -23,7 +23,7 @@ import com.vaadin.flow.shared.Registration;
 /**
  * Employee form component that extends FormLayout Vaadin for form display
  * 
- * @author chris
+ * @author Iyed.G
  *
  */
 public class EmployeeForm extends FormLayout {
@@ -86,7 +86,7 @@ public class EmployeeForm extends FormLayout {
 	 * Superclass for all events and handles the employee object that is edited or
 	 * deleted.
 	 * 
-	 * @author chris
+	 * @author Iyed.G
 	 */
 	public static abstract class EmployeeFormEvent extends ComponentEvent<EmployeeForm> {
 		private Employee employee;

@@ -16,7 +16,7 @@ import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
 
 @Route(value="", layout = MainLayout.class)
-@PageTitle("Employees | Slick EMS")
+@PageTitle("Employees | Futur Agency")
 /**
  * Construct a Vaadin view to populate grid table with data. Build the
  * initial UI state for the user accessing the application.

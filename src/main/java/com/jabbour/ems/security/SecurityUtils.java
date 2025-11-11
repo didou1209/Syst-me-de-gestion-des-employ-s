@@ -13,7 +13,7 @@ import com.vaadin.flow.shared.ApplicationConstants;
  * Helper class 
  * for Utility methods and static operations
  * using the Spring Security module
- * @author chris
+ * @author Iyed.G
  */
 public final class SecurityUtils {
 

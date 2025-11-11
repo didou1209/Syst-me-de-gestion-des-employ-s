@@ -8,7 +8,7 @@ import org.springframework.security.web.savedrequest.HttpSessionRequestCache;
 /**
  * Class that defining a cache 
  * to keep track of unauthenticated requests.
- * @author chris
+ * @author IYED.G
  */
 class CustomRequestCache extends HttpSessionRequestCache {	
 	@Override
